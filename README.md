@@ -1,6 +1,5 @@
-👋 Hi, I’m @Kuroam
-👀 my skills : html,css,disc
-js,php,php.mvc
+👋 Hi, I’m @Kuroam<br/>
+👀 my skills : html,css,dis.js,php,php.mvc<br/>
 🌱 I’m currently learning PHP
 
 <!---
